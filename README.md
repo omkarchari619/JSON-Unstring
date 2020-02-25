@@ -1,2 +1,2 @@
 # Kollage
-Creating anime animations
+Creating animations
