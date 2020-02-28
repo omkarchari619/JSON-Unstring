@@ -1,2 +1,2 @@
-# -0---
+# Animakes
 Creating animations
