@@ -1,2 +1,2 @@
-# Animakes
+# Animatica
 Creating animations
