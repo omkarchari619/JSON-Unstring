@@ -1,2 +1,2 @@
-# Animatica
+# JSON Unstring
 Creating animations
